@@ -1,1 +1,1 @@
-# pongdemo
+# Code for the pong demo for GBM.0
